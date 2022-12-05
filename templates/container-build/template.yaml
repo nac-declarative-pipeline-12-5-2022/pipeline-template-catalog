@@ -7,7 +7,7 @@ parameters:
   - name: repoOwner
     type: string
     displayName: Repository Owner
-    defaultValue: REPLACE_GITHUB_ORG
+    defaultValue: nac-declarative-pipeline-12-5-2022
   - name: repository
     type: string
     displayName: Repository
